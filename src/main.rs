@@ -268,3 +268,6 @@ fn construct_tic(path: String, from: Vec<Chunk>) -> () {
         let _ = file.write_all(&chunk_bytes);
     }
 }
+
+fn main() -> () {
+}
