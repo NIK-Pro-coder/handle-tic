@@ -2,5 +2,7 @@
 name = "handle_tic"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "A crate designed to handle io on .tic files"
 
 [dependencies]
